@@ -1,1 +1,1 @@
-# RituProjects
+MY Internship Projects
